@@ -48,3 +48,4 @@ git clone https://github.com/hiifong/fvim.git ~/.config/nvim
 | `<leader>tb`  | Toggle Bottom Terminal          | n    |
 | `<leader>tr`  | Toggle Right Terminal           | n    |
 | `<leader>tob` | Open Floaterm in Current Buffer | n    |
+| `<leader>cs`  | Toggle Aerial(Symbols)          | n    |
