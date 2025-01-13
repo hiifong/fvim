@@ -30,22 +30,24 @@ git clone https://github.com/hiifong/fvim.git ~/.config/nvim
 
 ## Keymaps
 
-| Key           | Description                     | Mode |
-| ------------- | ------------------------------- | ---- |
-| `<leader>mp`  | Preview Markdown                | n    |
-| `<leader>mP`  | Close Preview Markdown          | n    |
-| `<leader>dvf` | Open diff view                  | n    |
-| `<leader>dvc` | Close diff view                 | n    |
-| `<C-o>`       | Open/Close Terminal             | n    |
-| `<C-n>`       | New Terminal                    | t    |
-| `<C-f>`       | First Terminal                  | t    |
-| `<C-e>`       | Last Terminal                   | t    |
-| `<C-h>`       | Previons Terminal               | t    |
-| `<C-l>`       | Next Terminal                   | t    |
-| `<esc><esc>`  | Enter Normal Mode               | t    |
-| `<C-j>`       | Small/Large Size Terminal       | t    |
-| `<C-q>`       | Quit Terminal                   | t    |
-| `<leader>tb`  | Toggle Bottom Terminal          | n    |
-| `<leader>tr`  | Toggle Right Terminal           | n    |
-| `<leader>tob` | Open Floaterm in Current Buffer | n    |
-| `<leader>cs`  | Toggle Aerial(Symbols)          | n    |
+| Key           | Description                                           | Mode |
+| ------------- | ----------------------------------------------------- | ---- |
+| `<leader>mp`  | Preview Markdown                                      | n    |
+| `<leader>mP`  | Close Preview Markdown                                | n    |
+| `<leader>dvf` | Open diff view                                        | n    |
+| `<leader>dvc` | Close diff view                                       | n    |
+| `<C-o>`       | Open/Close Terminal                                   | n    |
+| `<C-n>`       | New Terminal                                          | t    |
+| `<C-f>`       | First Terminal                                        | t    |
+| `<C-e>`       | Last Terminal                                         | t    |
+| `<C-h>`       | Previons Terminal                                     | t    |
+| `<C-l>`       | Next Terminal                                         | t    |
+| `<esc><esc>`  | Enter Normal Mode                                     | t    |
+| `<C-j>`       | Small/Large Size Terminal                             | t    |
+| `<C-q>`       | Quit Terminal                                         | t    |
+| `<leader>tb`  | Toggle Bottom Terminal                                | n    |
+| `<leader>tr`  | Toggle Right Terminal                                 | n    |
+| `<leader>tob` | Open Floaterm in Current Buffer                       | n    |
+| `<leader>cs`  | Toggle Aerial(Symbols)                                | n    |
+| `<C-j/k>`     | Synchronous scrolling source code and Aerial(Symbols) | n    |
+| `<C-h/l>`     | Expland or Fold Aerial(Symbols)                       | n    |
