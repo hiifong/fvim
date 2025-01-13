@@ -17,6 +17,14 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 ## Installation
 
 ```shell
+// required
+mv ~/.config/nvim{,.bak}
+
+// optional but recommanded
+mv ~/.local/share/nvim{,.bak}
+mv ~/.local/state/nvim{,.bak}
+mv ~/.cache/nvim{,.bak}
+
 git clone https://github.com/hiifong/fvim.git ~/.config/nvim
 ```
 
