@@ -6,3 +6,6 @@ local keymap = vim.keymap
 
 keymap.set("n", "<leader>mp", ":PeekOpen<CR>")
 keymap.set("n", "<leader>mP", ":PeekClose<CR>")
+
+keymap.set("n", "<leader>dvf", ":DiffviewFileHistory<CR>")
+keymap.set("n", "<leader>dvc", ":DiffviewClose<CR>")

@@ -12,4 +12,11 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 ## Shortcut Keys
 
-- Markdown Preview `<leader>m(p/P)`
+- Markdown Preview `<leader>m(p/P
+
+- Diff View
+
+```vim
+<leader>dvf // Open diff view
+<leader>dvc // Close diff view
+```
