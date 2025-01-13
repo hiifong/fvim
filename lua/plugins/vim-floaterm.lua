@@ -99,26 +99,6 @@ return {
         "<cmd>FloatermNew --cwd=<buffer><cr>",
         desc = "Open Floaterm in Current Buffer",
       },
-      {
-        "<leader>tor",
-        "<cmd>FloatermNew ranger<cr>",
-        desc = "Open Ranger Floaterm",
-      },
-      {
-        "<leader>top",
-        "<cmd>FloatermNew python3<cr>",
-        desc = "Open Python3 Floaterm",
-      },
-      {
-        "<leader>ton",
-        "<cmd>FloatermNew node<cr>",
-        desc = "Open Nodejs Floaterm",
-      },
-      {
-        "<leader>tol",
-        "<cmd>FloatermNew lua<cr>",
-        desc = "Open Lua Floaterm",
-      },
     },
     config = function()
       vim.g.floaterm_borderchars = "─│─│╭╮╯╰"
