@@ -23,7 +23,7 @@ return {
       signcolumn = true, -- Toggle with
       numhl = true, -- Toggle with
       linehl = false, -- Toggle with
-      word_diff = true, -- Toggle with
+      word_diff = false, -- Toggle with
       watch_gitdir = {
         follow_files = true,
       },

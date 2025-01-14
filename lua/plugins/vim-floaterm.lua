@@ -4,12 +4,12 @@ return {
     event = "VeryLazy",
     keys = {
       {
-        "<C-o>",
+        "<C-t>",
         "<cmd>FloatermToggle<cr>",
         desc = "Toggle Floaterm",
       },
       {
-        "<C-o>",
+        "<C-t>",
         "<cmd>FloatermToggle<cr>",
         desc = "Toggle Floaterm",
         ft = "floaterm",
