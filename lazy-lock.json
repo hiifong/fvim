@@ -3,6 +3,7 @@
   "SchemaStore.nvim": { "branch": "main", "commit": "67d6c391e9a372d2d8701b5b8c9ae89455561fbf" },
   "aerial.nvim": { "branch": "master", "commit": "5c0df1679bf7c814c924dc6646cc5291daca8363" },
   "alpha-nvim": { "branch": "main", "commit": "2b3cbcdd980cae1e022409289245053f62fb50f6" },
+  "auto-session": { "branch": "main", "commit": "6403b7415da71ad05f49827cb569eddaef0b0be0" },
   "blink.cmp": { "branch": "main", "commit": "bae4bae0eedd1fa55f34b685862e94a222d5c6f8" },
   "bufferline.nvim": { "branch": "main", "commit": "655133c3b4c3e5e05ec549b9f8cc2894ac6f51b3" },
   "catppuccin": { "branch": "main", "commit": "84336e08415858f6d835835e81a4f79e585463c6" },
